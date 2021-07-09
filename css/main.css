@@ -1,0 +1,385 @@
+@charset "utf-8";
+/* CSS Document */
+
+.background
+{
+	width: 100%;
+	height: auto;
+	background-color: gray;
+}
+
+
+.thanhbar
+{
+	width: 100%;
+	height: 60px;
+	background-color: black;
+	position: relative;
+}
+
+.thanhbar01
+{
+	width: 65%;
+	height: 60px;
+	background-color: none;
+	float: right;
+}
+
+.logo
+{
+	width: 25%;
+	height: 40px;
+	background-color: black;
+	float: left;
+	position: absolute;
+	z-index: 1000;
+}
+
+.logo a
+{
+	text-decoration: none;
+	color:white;
+	font-family:'Gill Sans MT';
+	float: right;
+}
+
+.content01
+{
+	width: 50%;
+	height: 640px;
+	background-color: white;
+	float:left;
+}
+
+.content_01a
+{
+	width: 450px;
+	height: 400px;
+	background-color:darkred;
+	margin: 100px 150px;
+	float: right;
+}
+
+
+.content_01b
+{
+	width: 520px;
+	height: 400px;
+	background-color:white;
+	margin: 100px 50px;
+	float: left;
+}
+.content_01b h1
+{
+	color: black;
+}
+.content02
+{
+	width: 100%;
+	height: 670px;
+	background-color:#2A3043;
+	float: left;
+	position: relative;
+}
+
+.content_02a
+{
+	width: 500px;
+	height: 30px;
+	background-color:none;
+	margin: 35px auto;
+	position: relative;
+}
+.content_02a u
+{
+	color: #D5D5D8;
+	padding: 0 180px
+}
+
+.content_02a b
+{
+	color:white;
+	padding: 0 100px
+}
+.content_02b
+{
+	width: 1400px;
+	height: 520px;
+	background-color: none;
+	margin: 0 auto;
+}
+
+.content_02ba
+{
+	width: 650px;
+	height: 520px;
+	background-color: red;
+	float: right;
+	
+}
+
+.content_02bb
+{
+	width: 650px;
+	height: 520px;
+	background-color: blue;
+	float: left;
+	
+}
+
+.chia01
+{
+	width: 150px;
+	height: 150px;
+	background-color: black;
+	border-radius: 150px;
+	position: absolute;
+	margin: 0 240px;
+	
+}
+
+.chia01 img
+{
+	border-radius: 150px;
+}
+
+.chia02
+{
+	width: 650px;
+	height: 360px;
+	background-color: #2A3043;
+	float: left;
+}
+.chia02a
+{
+	width: 650px;
+	height: 280px;
+	background-color: white;
+	float: left;
+	margin: 80px auto;
+}
+
+.text02
+{
+	width: 490px;
+	height: 90px;
+	background-color: none;
+	margin: 110px auto;
+	font-family: "Gill Sans MT";
+	font-size: 25px;
+}
+
+.text04
+{
+	width: 570px;
+	height: 90px;
+	background-color: none;
+	margin: 110px auto;
+	font-family: "Gill Sans MT";
+	font-size: 25px;
+}
+.chia03
+{
+	width: 650px;
+	height: 160px;
+	background-color:#D1D1D1;
+	float: left;
+}
+.text03
+{
+	width: 300px;
+	height: 90px;
+	background-color:none;
+	margin: 35px auto;
+	font-size: 30px;
+	color:black;
+}
+.content03
+{
+	width: 100%;
+	height: 730px;
+	background-color:#D1D1D1;
+	float: left;
+}
+
+.content_03a
+{
+	width: 500px;
+	height: 50px;
+	background-color:none;
+	margin: auto;
+}
+.content_03a h1
+{
+	color:black;
+}
+.content_03b
+{
+	width: 1400px;
+	height: 570px;
+	background-color: none;
+	margin: 22px auto;
+	
+}
+
+.content_03ba
+{
+	width: 650px;
+	height: 560px;
+	background-color: white;
+	float: right;
+	position: relative;
+	
+}
+
+.content_03bb
+{
+	width: 670px;
+	height: 550px;
+	background-color: none;
+	float: left;
+	position: relative;
+	
+}
+
+.hinh03_a
+{
+	width: 670px;
+	height: 220px;
+	background-color:#FFFFFF;
+	float: left;
+	padding: 10px 60px;
+	box-sizing: border-box;
+	
+}
+
+.hinh03_b
+{
+	width: 670px;
+	height: 320px;
+	background-color: white;
+	float: left;
+	position: absolute;
+	margin: 250px 0;
+	
+}
+
+.hinh03_c
+{
+	width: 450px;
+	height: 300px;
+	background-color: none;
+	padding: 10px 80px;
+	box-sizing: border-box;
+	float: left;
+	position: absolute;
+	padding: 10px 60px;
+	box-sizing: border-box;
+	z-index: 1000;
+}
+
+.hinh03_d
+{
+	width: 650px;
+	height: 480px;
+	background-color:blue;
+	float: right;
+	margin: 80px 0;
+	
+}
+
+.footer
+{
+	width: 100%;
+	height: 270px;
+	background-color: #2A3043;
+	float: left;
+}
+
+.nenfooter
+{
+	width: 1070px;
+	height: 270px;
+	background-color: none;
+	margin: auto
+}
+.footer_01
+{
+	width:465px;
+	height: 270px;
+	background-color: none;
+	float: left;
+	padding: 60px 30px;
+	box-sizing: border-box;
+	color: #D1D1D1;
+}
+
+.footer_02
+{
+	width:385px;
+	height: 270px;
+	background-color: none;
+	float: left;
+	padding: 60px 30px;
+	box-sizing: border-box;
+	color: #D1D1D1;
+}
+
+.footer_03
+{
+	width:220px;
+	height: 270px;
+	background-color: none;
+	float: left;
+	padding: 60px 30px;
+	box-sizing: border-box;
+	color: #D1D1D1;
+}
+
+.thanhbar01 ul
+{
+	margin: auto ;
+}
+.thanhbar01 ul li
+{
+	list-style: none;
+	float: left;
+	margin: 18px;
+	padding: 0 0 19px 0;
+	font-family: "Gill Sans MT";
+}
+
+.thanhbar01 ul li a
+{
+	text-decoration: none;
+	color: white;
+}
+
+.thanhbar ul li:hover
+{
+	border-bottom: 5px solid #FF1493;
+}
+
+.readmore
+
+{
+	width: 160px;
+	height: 60px;
+	background-color: deeppink;
+	position: absolute;
+	border-radius: 60px;
+	top: 340px;
+	left: 60px;
+	
+}
+.readmore a
+{
+	text-decoration: none;
+	color:white;
+}
+
+
+
+
+
+
